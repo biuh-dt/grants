@@ -3,8 +3,4 @@
 
 *Kindly request the invitation code from the program lead.*
 
-<br>
-
-## *Link*:   
-
-[2025](https://pan.baidu.com/s/1G4tcjrjDohk6BQDTS79CYQ)
+[*BaiduNetDisk*](https://pan.baidu.com/s/1SOwlCjexu2C0bcTjeoVQRQ)
