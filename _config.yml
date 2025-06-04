@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Available Grants
-logo: https://www.biuh-dt.com/img/biuh_logo.jpg
+logo: /img/meow_logo_small.jpg
 description: ""
 show_downloads: false
 google_analytics: ""
