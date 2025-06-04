@@ -1,6 +1,8 @@
 <br>
 
-*If you are interested in any of the available grants listed below, please send the corresponding GID to the program lead’s email address. Further details will be provided upon request.*
+Details are provided in BaiduNetDisk:
+
+*[2025](https://pan.baidu.com/s/12DZdno9scE8XYMwLvpGpfg)*
 
 <br>
 
