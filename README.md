@@ -8,7 +8,7 @@ Please request the invitation code from the program lead.
 <p align="right">
   <img src="/img/win_small.jpeg" width="500">
   <br>
-  Research sparks, teaching shines.
+  Destiny may shift, but you stay true.
 </p>
 
 <br>
