@@ -10,7 +10,7 @@ Kindly request the invitation code from the program lead.
 
 
 <p align="right">
-  <img src="/img/win_small.jpg" width="500">
+  <img src="/img/win_small.jpeg" width="500">
   <br>
   Research sparks, teaching shines.  Together, they uphold humanity.
 </p>
