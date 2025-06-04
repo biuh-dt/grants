@@ -9,7 +9,7 @@
 
 ---
 
-## The following are the updates:
+# Updates:
 
 <br>
 
