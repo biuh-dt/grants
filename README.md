@@ -4,7 +4,7 @@
 
 *Kindly request the invitation code from the program lead.*
 
-• *[2025](https://pan.baidu.com/s/12DZdno9scE8XYMwLvpGpfg)*
+*• [2025](https://pan.baidu.com/s/12DZdno9scE8XYMwLvpGpfg)*
 
 <br>
 
