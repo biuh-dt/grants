@@ -11,7 +11,7 @@
 
 ---
 
-# Updates:
+# UPDATES
 
 ---
 
