@@ -2,7 +2,7 @@
 
 *Details are provided in BaiduNetDisk:*
 
-*[2025](https://pan.baidu.com/s/12DZdno9scE8XYMwLvpGpfg)*
+*-[2025](https://pan.baidu.com/s/12DZdno9scE8XYMwLvpGpfg)*
 
 <br>
 
