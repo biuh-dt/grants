@@ -1,8 +1,6 @@
 <br><br>
 
-*If you are interested in any of the following available grants, please send the GID to the email address provided. You will receive all the details.*
-
-*Email: feng.zhang at hainan-biuh.edu.cn*
+*If you are interested in any of the following available grants, please send the GID to the email address of the program lead. You will receive all the details.*
 
 <br><br>
 
