@@ -1,6 +1,6 @@
 <br>
 
-## Details have been uploaded to BaiduNetDisk:
+## I. Details have been uploaded to BaiduNetDisk:
 
 *Kindly request the invitation code from the program lead.*
 
@@ -11,7 +11,7 @@
 
 ---
 
-## The following are the updates:
+## II. The following are the updates:
 
 <br>
 
