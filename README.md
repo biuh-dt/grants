@@ -1,4 +1,3 @@
-<br>
 
 ## *Details have been uploaded to BaiduNetDisk.*
 
