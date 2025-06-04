@@ -8,11 +8,13 @@
 
 <br>
 <br>
-<br>
 
-<img src="/img/get_grant_small.jpg" width="500">
+<p align="right">
+  <img src="/img/get_grant_small.jpg" width="500">
+  <br>
+  Research sparks, teaching shines. Both uphold humanity.
+</p>
 
-<br>
 <br>
 <br>
 
