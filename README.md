@@ -12,7 +12,7 @@
 <p align="right">
   <img src="/img/get_grant_small.jpg" width="500">
   <br>
-  Research sparks, teaching shines. Both uphold humanity.
+  Research sparks, teaching shines.  Together, they uphold humanity.
 </p>
 
 <br>
