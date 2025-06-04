@@ -1,6 +1,6 @@
 <br><br>
 
-*If you are interested in any of the following available grants, please send the GID to the email address of the program lead. You will receive all the details.*
+*If you are interested in any of the available grants listed below, please send the corresponding GID to the program lead’s email address. Further details will be provided upon request.*
 
 <br><br>
 
