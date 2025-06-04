@@ -1,5 +1,7 @@
 # Funding Opportunities (FOs)
 
+## For Teachers
+
 *If you are interested in any of the following funding opportunities, please send the FID to the email address provided. You will receive all the details.*
 
 *Email: feng.zhang@hainan-biuh.edu.cn*
