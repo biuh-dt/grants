@@ -1,6 +1,6 @@
 <br>
 
-## *Details are provided in BaiduNetDisk:*
+## *Details have been uploaded to BaiduNetDisk:*
 
 *Kindly request the invitation code from the program lead.*
 
