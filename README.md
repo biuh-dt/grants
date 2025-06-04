@@ -1,9 +1,10 @@
 # Fundings (for teachers)
 
-*If you are interested in the following funding opportunities, please send me the FID.I will send you all the details.*
+*If you are interested in the following funding opportunities, please send the FID to the following Email address. You will get all the details.*
 
 *Email: feng.zhang@hainan-biuh.edu.cn*
 
+<br><br>
 
 - ## FID: 20250604_01
 
