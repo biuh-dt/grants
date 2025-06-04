@@ -1,6 +1,6 @@
 <br>
 
-Details are provided in BaiduNetDisk:
+*Details are provided in BaiduNetDisk:*
 
 *[2025](https://pan.baidu.com/s/12DZdno9scE8XYMwLvpGpfg)*
 
