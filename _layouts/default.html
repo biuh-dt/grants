@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+  <link rel="stylesheet" href="https://www.biuh-dt.com/assets/css/this_style.css?v=123456789">
+    
+  </head>
+
+  
+  <body class="hidden-until-ready">
+    <div class="wrapper">
+      <header>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" width="300" />
+        {% endif %}
+        
+        <p> Eat to survive, learn to become. Learning is not hearing, but giving voice. </p>
+        
+        </br>
+
+        <p class="view"> ▾ <a href="https://www.biuh-dt.com/"> Home </a> </p>
+
+        <p class="view" style="line-height: 1;"> 
+                &nbsp;&nbsp;&nbsp;&nbsp; ▾ <a href="/"> Grants </a> <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┃ <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┣ <a href="/#2025"> 2025 </a> <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┃<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┗ <a href="/#2024"> 2024 </a> <br>
+        </p>
+        
+        
+        {% if site.show_downloads %}
+        {% endif %}
+      </header>
+      <section>
+
+      <div id="loading"><h2>Loading......<h2></div>
+        
+      <div id="password-form">
+           <h2>Password</h2>
+           <input type="password" id="password" placeholder="Password">
+            <button onclick="checkPassword()">submit</button>
+          <p id="message" style="color:red;"></p>
+      </div>
+      <div id="protected-content">
+        
+          {{ content }}
+        
+      </div>
+
+      
+      </section>
+      <footer>
+
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="https://www.biuh-dt.com/assets/this_main.js?v=123456789"></script>
+
+        
+  </body>
+</html>
